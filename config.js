@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['94740804536', 'Dinuwa Official²⁰²³', true],
-  ['94740804536', 'Dinuwa Official²⁰²³', true], 
+  ['94740804536', 'BMID Official²⁰²³', true],
+  ['94740804536', 'BMID Official²⁰²³', true], 
   [''] 
 ] //Number of owners
 
@@ -47,20 +47,20 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '💝 Queen Hentai 💝'
+global.botname = 'BMIDOfficial'
 global.premium = 'true'
-global.packname = '💝 Queen Hentai 💝 Created By 💝 Dinuwa Official²⁰²³ 💝' 
-global.author = '💝 Dinuwa Official²⁰²³ 💝' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/Dinuwa Official²⁰²³\n' 
-global.dygp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
-global.fgsc = 'https://github.com/dinuwah/QUEEN-HENTAI' 
-global.fgyt = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
-global.fgpyp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
-global.fglog = 'https://i.ibb.co/T1DqdYz/thumbnail.jpg' 
+global.packname = ' Created By BMIDOfficial ' 
+global.author = ' BMIDOfficial' 
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/bmidofficial\n' 
+global.dygp = 'https://chat.whatsapp.com/JBjkcNbU8JhLkUs8CE6Wdq'
+global.fgsc = 'https://github.com/dinuwah/bmid' 
+global.fgyt = 'https://chat.whatsapp.com/JBjkcNbU8JhLkUs8CE6Wdq'
+global.fgpyp = 'https://chat.whatsapp.com/JBjkcNbU8JhLkUs8CE6Wdq'
+global.fglog = 'https://images.app.goo.gl/pZiv3PtJcsMHzLvF8' 
 
 
-global.wait = '*💝 _Waiting Bro Uploading by 💝 Queen Hentai 💝..._*'
-global.rwait = '🇱🇰'
+global.wait = '*_Waiting Bro Uploading by BMIDOfficial..._*'
+global.rwait = 'BMID'
 global.dmoji = '🤣'
 global.done = '👍'
 global.error = '👎' 
