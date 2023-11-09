@@ -12,8 +12,8 @@ global.owner = [
   [''] 
 ] //Number of owners
 
-global.mods = ['94740804536','94740804536'] 
-global.prems = ['94740804536', '94740804536', '94740804536']
+global.mods = ['+6287838880778','+6287838880778'] 
+global.prems = ['+6287838880778', '+6287838880778', '+6287838880778']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -56,7 +56,7 @@ global.dygp = 'https://chat.whatsapp.com/JBjkcNbU8JhLkUs8CE6Wdq'
 global.fgsc = 'https://github.com/dinuwah/bmid' 
 global.fgyt = 'https://chat.whatsapp.com/JBjkcNbU8JhLkUs8CE6Wdq'
 global.fgpyp = 'https://chat.whatsapp.com/JBjkcNbU8JhLkUs8CE6Wdq'
-global.fglog = 'https://images.app.goo.gl/pZiv3PtJcsMHzLvF8' 
+global.fglog = 'https://st3.depositphotos.com/32211788/33314/v/1600/depositphotos_333143444-stock-illustration-letter-logo-icon-design-template.jpg' 
 
 
 global.wait = '*_Waiting Bro Uploading by BMIDOfficial..._*'
